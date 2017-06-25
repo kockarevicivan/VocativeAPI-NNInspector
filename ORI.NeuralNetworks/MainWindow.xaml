@@ -1,0 +1,48 @@
+﻿<Window x:Class="ORI.NeuralNetworks.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ORI.NeuralNetworks"
+        mc:Ignorable="d"
+        Title="Vocative API NN inspector" Height="604.15" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <RichTextBox x:Name="requestRichTextbox" AcceptsTab="True" HorizontalAlignment="Left" Height="448" Margin="10,62,0,0" VerticalAlignment="Top" Width="377px" Background="#FFF3F3F3">
+            <FlowDocument LineHeight="1">
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <RichTextBox x:Name="responseRichTextbox" AcceptsTab="True" HorizontalAlignment="Left" Height="448" Margin="395,62,0,0" VerticalAlignment="Top" Width="377px" RenderTransformOrigin="1.326,0.522" Background="#FFF3F3F3">
+            <FlowDocument LineHeight="1">
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Button x:Name="submitBtn" Content="Submit" HorizontalAlignment="Left" Margin="10,515,0,0" VerticalAlignment="Top" Height="40" Width="85" Click="submitBtn_Click"/>
+        <Button x:Name="trainBtn" Content="Train" HorizontalAlignment="Left" Margin="687,515,0,0" VerticalAlignment="Top" Height="40" Width="85" Click="trainBtn_Click"/>
+        <Label x:Name="requestLabel" Content="Sample input:" HorizontalAlignment="Left" Margin="10,32,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="responseLabel" Content="NN response:" HorizontalAlignment="Left" Margin="395,32,0,0" VerticalAlignment="Top"/>
+        <Menu x:Name="menu" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top">
+            <MenuItem Header="File">
+                <MenuItem Header="New" HorizontalAlignment="Left" Width="140" Click="new_Click"/>
+                <MenuItem Header="Open" HorizontalAlignment="Left" Width="140" Click="open_Click"/>
+                <Separator HorizontalAlignment="Left" Height="1" Width="140"/>
+                <MenuItem Header="Save" HorizontalAlignment="Left" Width="140" Click="save_Click"/>
+                <MenuItem Header="Save As" HorizontalAlignment="Left" Width="140" Click="saveAs_Click"/>
+                <Separator HorizontalAlignment="Left" Height="1" Width="140"/>
+                <MenuItem Header="Exit" HorizontalAlignment="Left" Width="140" Click="exit_Click"/>
+            </MenuItem>
+            <MenuItem Header="Edit">
+                <MenuItem Header="Preferences" HorizontalAlignment="Left" Width="146"/>
+            </MenuItem>
+            <MenuItem Header="Help"/>
+        </Menu>
+        <Button x:Name="initialTrainingBtn" Content="Initial training" HorizontalAlignment="Left" Margin="578,515,0,0" VerticalAlignment="Top" Height="40" Width="104" Click="initialTrainingBtn_Click"/>
+        <Label x:Name="indicatorLabel" Content="Ready" HorizontalAlignment="Left" Margin="730,10,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="clearBtn" Content="Clear" HorizontalAlignment="Left" Margin="100,515,0,0" VerticalAlignment="Top" Height="40" Width="85" Click="clearBtn_Click"/>
+        <ProgressBar Name="progressBar" HorizontalAlignment="Left" Height="11" Margin="620,18,0,0" VerticalAlignment="Top" Width="100"/>
+    </Grid>
+</Window>

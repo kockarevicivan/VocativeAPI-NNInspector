@@ -1,0 +1,78 @@
+c:\users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.exe.config
+c:\users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.exe
+c:\users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.pdb
+c:\users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.csprojResolveAssemblyReference.cache
+c:\users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\MainWindow.g.cs
+c:\users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\App.g.cs
+c:\users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks_MarkupCompile.cache
+c:\users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks_MarkupCompile.lref
+c:\users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\MainWindow.baml
+c:\users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.g.resources
+c:\users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.Properties.Resources.resources
+c:\users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.csproj.GenerateResource.Cache
+c:\users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.exe
+c:\users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.pdb
+C:\Users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\NeuronDotNet.Core45.dll
+C:\Users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\i.kockarevic\documents\visual studio 2015\Projects\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\Newtonsoft.Json.xml
+F:\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.exe.config
+F:\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.exe
+F:\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.pdb
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.exe.config
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.exe
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.pdb
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.exe
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.pdb
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\NeuronDotNet.Core45.dll
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\Newtonsoft.Json.dll
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\Newtonsoft.Json.xml
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.csprojResolveAssemblyReference.cache
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\MainWindow.g.cs
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\App.g.cs
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks_MarkupCompile.cache
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks_MarkupCompile.lref
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\MainWindow.baml
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.g.resources
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.Properties.Resources.resources
+F:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.csproj.GenerateResource.Cache
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.exe.config
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.exe
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.pdb
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\NeuronDotNet.Core45.dll
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\Newtonsoft.Json.dll
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\Newtonsoft.Json.xml
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.csprojResolveAssemblyReference.cache
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\MainWindow.g.cs
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\App.g.cs
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks_MarkupCompile.cache
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks_MarkupCompile.lref
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\MainWindow.baml
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.g.resources
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.Properties.Resources.resources
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.csproj.GenerateResource.Cache
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.exe
+G:\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.pdb
+G:\digested\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.exe.config
+G:\digested\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.exe
+G:\digested\ORI\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.pdb
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.exe.config
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.exe
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.pdb
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\obj\Debug\MainWindow.g.cs
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\obj\Debug\App.g.cs
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks_MarkupCompile.cache
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks_MarkupCompile.lref
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.exe
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.pdb
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\bin\Debug\NeuronDotNet.Core45.dll
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.BusinessLogic.pdb
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\obj\Debug\MainWindow.baml
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.g.resources
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.Properties.Resources.resources
+C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.csproj.GenerateResource.Cache
+D:\PROJEKTI\fakultet\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.exe.config
+D:\PROJEKTI\fakultet\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.exe
+D:\PROJEKTI\fakultet\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.pdb
