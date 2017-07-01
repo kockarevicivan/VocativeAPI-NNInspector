@@ -76,3 +76,6 @@ C:\Users\Ivan\Desktop\ORIFINAL\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.c
 D:\PROJEKTI\fakultet\ORI.NeuralNetworks\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.exe.config
 D:\PROJEKTI\fakultet\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.exe
 D:\PROJEKTI\fakultet\ORI.NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.pdb
+D:\PROJEKTI\fakultet\ORI-NeuralNetworks\ORI.NeuralNetworks\bin\Debug\ORI.NeuralNetworks.exe.config
+D:\PROJEKTI\fakultet\ORI-NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.exe
+D:\PROJEKTI\fakultet\ORI-NeuralNetworks\ORI.NeuralNetworks\obj\Debug\ORI.NeuralNetworks.pdb
